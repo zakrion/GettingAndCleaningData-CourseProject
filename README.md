@@ -1,4 +1,5 @@
-
+# Getting and Cleaning Data - Course Project
+## Coursera - John Hopkins University
 
 There is only one file in this project: `run_analysis.R`, it performs the 5 mandatory steps of this project, described below:
 
