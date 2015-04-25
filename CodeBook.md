@@ -1,6 +1,6 @@
 
 # Getting and Cleaning Data - Course Project
-# Coursera - John Hopkins University
+# Code Book
 
 ### Variables
 
